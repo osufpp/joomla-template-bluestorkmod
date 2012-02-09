@@ -1,0 +1,37 @@
+div.product_edit input#product_title {
+	font-size: 14px;
+	font-weight: bold;
+	width: 460px;
+
+}
+div.product_edit input#product_id {
+	width: 60px;
+}
+
+div.product_edit textarea{
+	width: 60%;
+	height: 400px;
+	margin: auto;
+}
+
+#catlist {
+	display: none;
+}
+
+#sbox-content #catlist {
+	display: block;
+}
+
+#catsel {
+	text-align: left;
+	border: 1px solid silver;
+	clear: both;
+	width: 460px;
+	min-height: 20px;
+	position: relative;
+	left: 135px;
+}
+
+#catsel_add {
+	margin-left: 135px;
+}
